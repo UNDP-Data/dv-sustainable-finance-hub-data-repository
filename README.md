@@ -1,6 +1,5 @@
 # Sustainable Finance Hub Dashboard: Data Repository
 
-## Related Repos
+This repository serves as the data repository for the Sustainable Finance Hub dashboard. It contains all the necessary datasets and resources required for the proper functioning and maintenance of the dashboard.
 
-- [**dv-sustainable-finance-hub**](dv-sustainable-finance-hub): This is the main visualization
-- [**stylesheet-for-viz**](https://github.com/UNDP-Data/stylesheets-for-viz): Repo which defines the css settings for the project
+The main dashboard repository, which contains the source code and documentation for the dashboard, can be found here [**dv-sustainable-finance-hub**](dv-sustainable-finance-hub).
